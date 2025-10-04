@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color white
+drawable avt
+drawable back
+drawable badge_circle
+drawable baseline_arrow_back_24
+drawable baseline_settings_24
+drawable bg_circle
+drawable bg_gradient
+drawable cc_bg
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable setting
+id btnBack
+id btnLogin
+id btnSetting
+id edtPassword
+id edtUsername
+id imgAvatar
+id tvBadge
+id tvFollowers
+id tvFriends
+id tvName
+layout activity_login
+layout activity_profile
+mipmap ic_launcher
+mipmap ic_launcher_round
+string app_name
+style Base.Theme.Activity
+style Theme.Activity
+xml backup_rules
+xml data_extraction_rules
